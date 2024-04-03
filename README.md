@@ -7,7 +7,7 @@ Targeted toward Digilent Basys3. Make sure to install the [board files](https://
 Tested on Windows 11.
 
 ---
-
+![Waveform from thunderbird_fsm_tb](Waveform.png)
 ## Build the project
 
 You can simply open `elevatorController.xpr` and Vivado will do the rest!
